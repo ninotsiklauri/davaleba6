@@ -1,0 +1,14 @@
+.top{
+    border: 1px solid black;
+    background-color: rgb(169, 215, 221);
+    margin: auto;
+    text-align: center;
+}
+.border{
+    border-collapse: collapse;
+}
+.text{
+    text-align: center;
+    border: 2px black solid;
+    background-color: white;
+}

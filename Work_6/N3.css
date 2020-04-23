@@ -1,0 +1,88 @@
+.mdiv {
+    height: 500px;
+    width: 1050px;
+    border: 2px solid black;
+    background-color: silver;
+    margin: 10px auto;
+    position: relative;
+}
+.spring{
+    position: absolute;
+    height: 200px;
+    top: 0px;
+    left: 0px;
+ }
+.summer{
+    position: absolute;
+    height: 200px;
+    top: 0px;
+    right: 0px;
+}
+.winter{
+    position: absolute;
+    height: 200px;
+    bottom: 0px;
+    left: 0px;
+}
+.autumn{
+    position: absolute;
+    height: 200px;
+    right: 0px;
+    bottom: 0px;
+}
+.spring1{
+    position: absolute;
+    height: 150px;
+    top: 50px;
+    left: 230px;
+    z-index: 1;
+ }
+.summer2{
+    position: absolute;
+    height: 150px;
+    top: 100px;
+    left: 270px;
+    z-index: 2;
+}
+.winter3{
+    position: absolute;
+    height: 150px;
+    top: 200px;
+    left: 373px;
+    z-index: 4;
+}
+.autumn4{
+    position: absolute;
+    height: 150px;
+    top: 150px;
+    left: 320px;
+    z-index: 3;
+}
+.spring5{
+    position: absolute;
+    height: 150px;
+    top: 200px;
+    right: 373px;
+    z-index: 8;
+ }
+.summer6{
+    position: absolute;
+    height: 150px;
+    top: 150px;
+    right: 320px;
+    z-index: 7;
+}
+.winter7{
+    position: absolute;
+    height: 150px;
+    top: 50px;
+    right: 230px;
+    z-index: 5;
+}
+.autumn8{
+    position: absolute;
+    height: 150px;
+    right: 270px;
+    top: 100px;
+    z-index: 6;
+}

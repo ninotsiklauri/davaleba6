@@ -1,0 +1,91 @@
+.mdiv{
+    height: 640px;
+    width: 800px;
+    border: 0px solid;
+    margin: auto;
+    position: relative;
+}
+.top{
+    height: 120px;
+    max-width: 800px;
+    background-color: green;
+    margin: auto;
+    font-size: 2.5em;
+    color: white;
+    line-height: 120px;
+    padding-left: 10px;
+}
+.bottom{
+    height: 90px;
+    width: 800px;
+    background-color: green;
+    margin: auto;
+    position: absolute;
+    bottom: 0px;
+    color: white;
+    text-align: center;
+    line-height: 90px;
+}
+.middle1{
+    width: 180px;
+    height: 50px;
+    background-color: rgb(65, 154, 255);
+    position: absolute;
+    color: white;
+    top: 150px;
+    left: 20px;
+    line-height: 50px;
+    padding-left: 10px;
+}
+.middle2{
+    width: 180px;
+    height: 50px;
+    background-color: rgb(65, 154, 255);
+    position: absolute;
+    color: white;
+    top: 210px;
+    left: 20px;
+    line-height: 50px;
+    padding-left: 10px;
+}
+.middle3{
+    width: 180px;
+    height: 50px;
+    background-color: rgb(65, 154, 255);
+    position: absolute;
+    color: white;
+    top: 270px;
+    left: 20px;
+    line-height: 50px;
+    padding-left: 10px;
+}
+.middle4{
+    width: 180px;
+    height: 50px;
+    background-color: rgb(65, 154, 255);
+    position: absolute;
+    color: white;
+    top: 330px;
+    left: 20px;
+    line-height: 50px;
+    padding-left: 10px;
+}
+.middle5{
+    width: 180px;
+    height: 50px;
+    background-color: rgb(65, 154, 255);
+    position: absolute;
+    color: white;
+    top: 390px;
+    left: 20px;
+    line-height: 50px;
+    padding-left: 10px;
+}
+.white{
+    position: absolute;
+    width: 530px;
+    height: 300px;
+    border: 0px solid;
+    right: 30px;
+    top: 180px;
+}
